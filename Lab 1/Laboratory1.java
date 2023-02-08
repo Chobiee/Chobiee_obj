@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Laboratory1 {
-    static int Lavoratory1; 
+    static int Laboratory1; 
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
